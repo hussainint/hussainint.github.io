@@ -81026,9 +81026,9 @@ A.a_I.prototype={
 yl(a){var s=0,r=A.a5(t.tY),q,p=2,o,n,m,l,k,j,i,h,g
 var $async$yl=A.a6(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:A.fp("fetching apiiiii wo")
-n="eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJpbmNvbm4yX3NlcnZpY2UiLCJleHAiOjE2ODY3Mzg0MjEsImlhdCI6MTY4NDMxOTIyMSwiaXNzIjoiaW5jb25uMl9zZXJ2aWNlIiwianRpIjoiYjdiZmI4OWMtZWFmMi00MjcyLTkzM2UtYzBmYmY2YjVkNGMwIiwibmJmIjoxNjg0MzE5MjIwLCJzdWIiOiJ1c3I6M0BpbmNfdGVzdGluZyIsInR5cCI6ImFjY2VzcyJ9.bBjQZPDRPCwgsJ3Ab8dICeKgA5K-YrsBONPRau7KE1DBdKUznwkG3cGjULKVioatWVptlzp8CxjhVn88YdnAfA"
+n="eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJpbmNvbm4yX3NlcnZpY2UiLCJleHAiOjE2ODYzMTI5NjUsImlhdCI6MTY4Mzg5Mzc2NSwiaXNzIjoiaW5jb25uMl9zZXJ2aWNlIiwianRpIjoiZWM1NzY3NWItODQyMi00MDY3LWI5ZWYtZTI3MDFhYTM0YjUzIiwibmJmIjoxNjgzODkzNzY0LCJzdWIiOiJ1c3I6MjE4QGluY19jc2ciLCJ0eXAiOiJhY2Nlc3MifQ.oNF7BdxqAosbSxq0U12NabRbP2jbZKsA2dPs9VpHKyFRRQJgrfBQLOzgCFlr1kZuwymzAohY6JnKso0ww86Q0g"
 p=4
-m=A.ju("http://testing.inconn.in:4000/api/mobile/flutter")
+m=A.ju("https://csg.inconn.io:4001/api/mobile/flutter")
 i=t.N
 s=7
 return A.ae(A.aQI(m,A.aK(["Authorization","Bearer "+A.f(n)],i,i)),$async$yl)
